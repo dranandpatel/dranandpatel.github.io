@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Biography"
+    url: "/biography/"
+  - title: "Academic CV"
+    url: "/cv/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
