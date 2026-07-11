@@ -14,8 +14,8 @@ M. D. (Hom.)
 
 Ph.D. Research Scholar (SGGU)
 
-Ph.D. Registration Number: 202303
-Date of Registration: 05/10/2023
+Ph.D. Registration Number- 202303
+Date of Registration: 05-10-2023
 
 ⸻
 
