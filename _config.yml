@@ -1,10 +1,25 @@
 title: Dr. Anandkumar Shantilal Patel
 description: Academic Website
-theme: minima
- header_pages:
-  - home.md
-  - biography.md
-  - cv.md
-  - teaching.md
-  - research.md
-  - publications.md
+title: "Dr. Anandkumar Shantilal Patel"
+name: "Dr. Anandkumar Shantilal Patel"
+description: "Academic Website"
+url: "https://dranandpatel.github.io"
+baseurl: ""
+
+repository: "dranandpatel/dranandpatel.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+minimal_mistakes_skin: "default"
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-include-cache
+
+collections:
+  teaching:
+    output: true
+  publications:
+    output: true
