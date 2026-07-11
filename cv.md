@@ -30,8 +30,8 @@ Faculty Member in Homoeopathy with academic interests in Repertory, Clinical Res
 
 # Ph.D. Research Details
 
-**Registration Number:** 202303  
-**Registration Date:** 05/10/2023  
+**Registration Number-** 202303  
+**Registration Date-** 05/10/2023  
 
 **Research Title:**  
 "The efficacy of application of ozonated water along with indicated Homoeopathic medicine in Psoriasis Vulgaris using the PASI score: A Randomized Control Trial."
